@@ -1,0 +1,25 @@
+{
+  "name": "material-modal-service",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tacionery/material-modal-service",
+  "authors": [
+    "Tácio Nery <tacionery@gmail.com>"
+  ],
+  "description": "modal service for material angular",
+  "keywords": [
+    "material",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.x",
+    "angular-material": "0.10.x"
+  }
+}
